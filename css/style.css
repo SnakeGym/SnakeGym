@@ -67,13 +67,14 @@ header {
 }
 
 .cta h4 {
-    color: rgb(240, 240, 240);
+    color: rgb(180, 180, 180);
     font-weight: 550;
     margin: 10px 0;
 }
 
 .cta p {
     margin: 10px 0;
+    color: rgb(180, 180, 180)
 }
 
 .orange {
