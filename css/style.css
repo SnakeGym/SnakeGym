@@ -51,17 +51,29 @@ header {
 
 .cta {
     text-align: center;
+    background: rgba(0, 0, 0, 0.6); /* Fondo negro semitransparente */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Esquinas redondeadas */
+    max-width: 700px; /* Limita el ancho del contenido */
+    margin: 0 auto; /* Centra horizontalmente el contenido */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Agrega sombra al cuadro */
 }
 
-h1 {
+.cta h1 {
     font-weight: 700;
     font-size: 70px;
     color: rgb(208, 208, 208);
+    margin: 10px 0;
 }
 
-h4 {
+.cta h4 {
     color: rgb(15, 15, 15);
     font-weight: 550;
+    margin: 10px 0;
+}
+
+.cta p {
+    margin: 10px 0;
 }
 
 .orange {
