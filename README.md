@@ -1,2 +1,0 @@
-# template-para-snake
- 
